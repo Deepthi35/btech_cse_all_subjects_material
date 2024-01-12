@@ -1,0 +1,44 @@
+-> Course Objectives:
+  * The aim of the course is to introduce the methodologies and framework of ethical hacking for
+    enhancing the security.
+  * The course includes-Impacts of Hacking; Types of Hackers; Information Security Models,
+    Information Security Program, Business Perspective, Planning a Controlled Attack
+  * Framework of Steps (Reconnaissance, Enumeration, Vulnerability Analysis, Exploitation,
+    Deliverable and Integration)
+-> Course Outcomes: At the end of the course, student will be able to
+  * Explain the concepts related to hacking, ports and protocols, pen testing and virtualization
+  * Determine the applicable footprinting techniques and scanning methods
+  * Explain the process of system hacking and Explain the concepts Trojans, backdoors, worms and
+    virus and it’s countermeasures
+  * Demonstrate systematic understanding of the concepts of Sniffing and Social Engineering and it’s
+    attacks
+  * Determine the applicable methods of cryptography, stegnography and Vulnerability Assessment
+
+<- UNIT I ->
+Introduction to Hacking: Hacking, Types and phases of hacking, Introduction to Ports & Protocols:
+Ports, Protocols, Primary Network Types, Virtualization & Introduction to Kali Linux: Virtualization,
+Virtualization software, supported platforms, Introduction to Penetration Testing: Penetration test,
+Categories and Types of Penetration tests, Structure of Penetration Test Report.
+
+<- UNIT II ->
+Footprinting: Footprinting, Types, Using ping and ns Lookup commands in Windows command line,
+Scanning: Scanning, Basics of Scanning, Basic Techniques of Scanning, Enumerating DNS using dns
+enum, Performing flag scan using hping3.
+
+<- UNIT III ->
+Hacking into System: System Hacking, Password Cracking, Default password databases, Manual and
+Automated Password Cracking, Process of System Hacking, Using Keyloggers, Trojans & Backdoors:
+Trojans, Working of Trojan, Infection Techniques, Attack, Lifecycle and Classification of Virus, Worms,
+Virus Construction Kit.
+
+<- UNIT IV ->
+Sniffing, Packet Analysis & Session Hijacking: Sniffing, Packet Analysis, Types of Sniffing, Active
+and Passive Sniffing Techniques, Session Hijacking, Social Engineering: Social Engineering, Process,
+Identity Theft, Human and Computer Based Social Engineering Techniques, Phishing Process, Types of
+Phishing Attacks, Social Engineering Toolkit (SET)
+
+<- UNIT V ->
+Cryptography: Cryptography, Digital Signature, Hash Functions, Steganography: Steganography
+Process, watermarking, Steganography Methods and Attacks, Steganography tools, Vulnerability
+Assessment: Vulnerability, The Open Web Application Security Project (OWASP), Prevention, Damn
+Vulnerable Web Application (DVWA), installation and testing of DVWA
