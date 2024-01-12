@@ -1,0 +1,24 @@
+<- UNIT I ->
+Systems Modeling, Clustering and Virtualization: Scalable Computing over the Internet-The Age of
+Internet Computing, Scalable computing over the internet, Technologies for Network Based Systems,
+System models for Distributed and Cloud Computing, , Performance, Security and Energy Efficiency
+
+<- UNIT II ->
+Virtual Machines and Virtualization of Clusters and Data Centers: Implementation Levels of
+Virtualization, Virtualization Structures/ Tools and Mechanisms, Virtualization of CPU, Memory and I/O
+Devices, Virtual Clusters and Resource Management, Virtualization for Data-Center Automation.
+
+<- UNIT III ->
+Cloud Platform Architecture: Cloud Computing and Service Models, Public Cloud Platforms, Service
+Oriented Architecture, Programming on Amazon AWS and Microsoft Azure
+
+<- UNIT IV ->
+Cloud Resource Management and Scheduling: Policies and Mechanisms for Resource Management,
+Applications of Control Theory to Task Scheduling on a Cloud, Stability of a Two Level Resource
+Allocation Architecture, Feedback Control Based on Dynamic Thresholds. Coordination of Specialized
+Autonomic Performance Managers, Resource Bundling, Scheduling Algorithms for Computing Clouds-
+Fair Queuing, Start Time Fair Queuing.
+
+<- UNIT V ->
+Storage Systems: Evolution of storage technology, storage models, file systems and database, distributed
+file systems, general parallel file systems. Google file system.
