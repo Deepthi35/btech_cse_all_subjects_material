@@ -1,0 +1,47 @@
+<- UNIT – I ->
+REVIEW OF NUMBER SYSTEMS & CODES:
+Representation of numbers of different radix, conversation from one radix to another radix, r-1’s
+compliments and r’s compliments of signed members, Gray code ,4 bit codes; BCD, Excess-3, 2421,
+84-2-1 code etc. Error detection & correction codes: parity checking, even parity, odd parity,
+Hamming code.
+BOOLEAN THEOREMS AND LOGIC OPERATIONS:
+Boolean theorems, principle of complementation & duality, De-morgan theorems, Logic operations ;
+Basic logic operations -NOT, OR, AND, Universal Logic operations, EX-OR, EX- NOR operations.
+Standard SOP and POS Forms, NAND-NAND and NOR-NOR realizations, Realization of three level
+logic circuits. Study the pin diagram and obtain truth table for the following relevant ICs
+7400,7402,7404,7408,7432,7486.
+
+<- UNIT – II -> 
+MINIMIZATION TECHNIQUES:
+Minimization and realization of switching functions using Boolean theorems, K-Map (up to 6
+variables)and tabular method(Quine-mccluskey method) with only four variables and single function.
+COMBINATIONAL LOGIC CIRCUITS DESIGN:
+Design of Half adder, full adder, half subtractor, full subtractor, applications of full adders; 4-bit
+adder-subtractor circuit, BCD adder circuit, Excess 3 adder circuit and carry look-a-head adder circuit,
+Design code converts using Karnaugh method and draw the complete circuit diagrams.
+
+<- UNIT – III -> 
+COMBINATIONAL LOGIC CIRCUITS DESIGN USING MSI &LSI :
+Design of encoder ,decoder, multiplexer and de-multiplexers, Implementation of higher order circuits
+using lower order circuits . Realization of Boolean functions using decoders and multiplexers, Design
+of Priority encoder, 4-bit digital comparator and seven segment decoder. . Study the relevant ICs pin
+diagrams and their functions 7442,7447,7485,74154.
+INTRODUCTION OF PLD’s :
+PLDs: PROM, PAL, PLA -Basics structures, realization of Boolean functions, Programming table.
+
+<- UNIT – IV ->
+SEQUENTIAL CIRCUITS I:
+Classification of sequential circuits (synchronous and asynchronous) , operation of NAND & NOR
+Latches and flip-flops; truth tables and excitation tables of RS flip-flop, JK flip-flop, T flip-flop, D
+flip-flop with reset and clear terminals. Conversion from one flip-flop to another flip- flop, Design of
+5ripple counters, design of synchronous counters, Johnson counter, ring counter. Design of registers -
+Buffer register, control buffer register, shift register, bi-directional shift register, universal shift,
+register, Study the following relevant ICs and their relevant functions
+7474,7475,7476,7490,7493,74121.
+
+<- UNIT – V ->
+SEQUENTIAL CIRCUITS II :
+Finite state machine; state diagrams, state tables, reduction of state tables. Analysis of clocked
+sequential circuits Mealy to Moore conversion and vice-versa, Realization of sequence generator,
+Design of Clocked Sequential Circuit to detect the given sequence (with overlapping or without
+overlapping)
