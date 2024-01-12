@@ -1,0 +1,25 @@
+<- UNIT I ->
+Spring 5 Basics : Why Spring, What is Spring Framework, Spring Framework - Modules, Configuring
+IoC container using Java-based configuration, Introduction To Dependency Injection, Constructor
+Injection, Setter Injection, What is AutoScanning
+
+<- UNIT II ->
+Spring Boot: Creating a Spring Boot Application, Spring Boot Application Annotation, What is
+Autowiring , Scope of a bean, Logger, Introduction to Spring AOP, Implementing AOP advices, Best
+Practices : Spring Boot Application
+
+<- UNIT III ->
+Spring Data JPA with Boot: Limitations of JDBC API, Why Spring Data JPA, Spring Data JPA with
+Spring Boot, Spring Data JPA Configuration, Pagination and Sorting, Query Approaches, Named Queries
+and Query, Why Spring Transaction, Spring Declarative Transaction, Update Operation in Spring Data
+JPA, Custom Repository Implementation, Best Practices - Spring Data JPA
+
+<- UNIT IV ->
+Web Services: Why Web services, SOA - Service Oriented Architecture, What are Web Services, Types
+of Web Services, SOAP based Web Services, RESTful Web Services, How to create RESTful Services
+
+<- UNIT V ->
+Spring REST: Spring REST - An Introduction, Creating a Spring REST Controller, @RequestBody and
+ResponseEntity, Parameter Injection, Usage of @PathVariable, @RequestParam and @MatrixVariable,
+Exception Handling, Data Validation, Creating a REST Client, Versioning a Spring REST endpoint,
+Enabling CORS in Spring REST, Securing Spring REST endpoints
