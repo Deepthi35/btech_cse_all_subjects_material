@@ -1,0 +1,33 @@
+<- UNIT I -> 
+  Fundamentals of Deep Learning: Artificial Intelligence, History of Machine learning: Probabilistic 
+  Modeling, Early Neural Networks, Kernel Methods, Decision Trees, Random forests and Gradient 
+  Boosting Machines, Fundamentals of Machine Learning: Four Branches of Machine Learning, 
+  Evaluating Machine learning Models, Overfitting and Underfitting. [Text Book 2]
+
+<- UNIT II -> 
+  Introducing Deep Learning: Biological and Machine Vision, Human and Machine Language, 
+  Artificial Neural Networks, Training Deep Networks, Improving Deep Networks. [Text Book3] 
+
+<- UNIT III ->
+  Neural Networks: Anatomy of Neural Network, Introduction to Keras: Keras, TensorFlow, 
+  Theano and CNTK, Setting up Deep Learning Workstation, Classifying Movie Reviews: Binary 
+  Classification, Classifying newswires: Multiclass Classification. [Text Book 2]
+
+<- UNIT IV ->
+  Convolutional Neural Networks: Nerual Network and Representation Learing, Convolutional Layers, 
+  Multichannel Convolution Operation, Recurrent Neural Networks: Introduction to RNN, RNN Code, 
+  PyTorch Tensors: Deep Learning with PyTorch, CNN in PyTorch. [Text Book 3]
+
+<- UNIT V ->
+  Interactive Applications of Deep Learning: Machine Vision, Natural Language processing, Generative 
+  Adversial Networks, Deep Reinforcement Learning. [Text Book 1]
+  Deep Learning Research: Autoencoders, Deep Generative Models: Boltzmann Machines Restricted 
+  Boltzmann Machines, Deep Belief Networks. [Text Book 1] 
+  
+Text Books: 
+1. Deep Learning- Ian Goodfellow, Yoshua Bengio and Aaron Courvile, MIT Press, 2016 
+2. Deep Learning with Python - Francois Chollet, Released December 2017, Publisher(s): Manning 
+Publications, ISBN: 9781617294433 
+3. Deep Learning Illustrated: A Visual, Interactive Guide to Artificial Intelligence - Jon Krohn, Grant 
+Beyleveld, Aglaé Bassens, Released September 2019, Publisher(s): Addison-Wesley Professional, 
+ISBN: 9780135116821
